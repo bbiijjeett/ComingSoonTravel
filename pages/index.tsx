@@ -13,6 +13,7 @@ const IndexPage = () => (
       src="/images/shapes.svg"
       alt="hero"
       className="absolute w-full left-24 bottom-24 animate-blob2"
+      
     /> */}
     <div>
       <Image src="/images/LOGO.png" width={150} height={150} alt="logo" />
