@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .fancy-undeline {
+  background-image: linear-gradient(120deg, #ec008c, #fc6767 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 1em;
+  background-position: 0 80%;
+  transition: background-size 0.25s ease-in;
+}
+
+.fancy-undeline:hover {
+  background-size: 100% 60% !important;
+} */
+
+/* @media only screen and (max-width: 767px) {
+  .fancy-undeline {
+    display: none;
+  }
+} */
